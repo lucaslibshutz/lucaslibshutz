@@ -27,6 +27,7 @@
 <img style="margin: 10px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" alt="Mathematica" height="50" />
+<img style="margin: 10px" src="https://www.manim.community/logo.svg" alt="Manim" height="50" />
 </div>  
 
 
