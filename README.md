@@ -1,22 +1,3 @@
-
-
-### Welcome visitor!  
-<div align="center">
-</div>  
-  
-
-### <div align="left">I'm Lucas, a student at Columbia Grammar and Preparatory School (Class of 2023). I particularly enjoy coding with Python, along with an assortment of other languages.</div>  
-  
-
-- 🔭 I’m currently working on [a project](https://github.com/lucaslibshutz/spectralResearch) to increase the spectral resolution of the surface of Titan, a moon of Saturn.   
-  
-
-- 🌱 I’m also learning currently more about the React Native Framework for App Development.  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
