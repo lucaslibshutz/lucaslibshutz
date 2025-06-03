@@ -19,6 +19,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png" alt="Jax" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCSS" height="50" /> 
 </div>  
 
 <br/>  
